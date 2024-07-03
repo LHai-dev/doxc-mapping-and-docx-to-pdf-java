@@ -52,6 +52,12 @@
             <artifactId>docx4j-core</artifactId>
             <version>11.4.11</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>2.5.6</version>
+        </dependency>
 
         <dependency>
             <groupId>fr.opensagres.xdocreport</groupId>
@@ -75,6 +81,12 @@
             <groupId>com.documents4j</groupId>
             <artifactId>documents4j-local</artifactId>
             <version>1.1.12</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.itextpdf/itextpdf -->
+        <dependency>
+            <groupId>com.itextpdf</groupId>
+            <artifactId>itextpdf</artifactId>
+            <version>5.5.13.3</version>
         </dependency>
 
     </dependencies>
